@@ -17,7 +17,7 @@
 
   * Menu hamburguesa y contenido. 
 
-  ![UI-Youtube](../assets/img/youtube.PNG)
+  ![UI-Youtube](assets/img/youtube.PNG)
 
 
 * Partes de UX 
