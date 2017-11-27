@@ -116,6 +116,18 @@
 
   * Los mixes se basan en reproducciones anteriores del usuario.
 
+  * Cuantas columnas y filas de videos aparecen. 
+
+  * Estructura de la información de los videos (Nombre del video/Canal/Vistas/Tiempo de publicación):
+
+  * Carrusel en los mixes.
+
+  * Incluir el tiempo de duración del video.
+
+  * Marcado con azul si el video ya ha sido visto (en la imagen no aparece).
+
+  * Señalar mi ubicación en el logo "Youtube PE". 
+
 
 
   ![UX-Youtube](assets/img/youtube-3.png)
