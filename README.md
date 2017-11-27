@@ -93,3 +93,35 @@
 ![UI-Youtube](assets/img/youtube-2.PNG)
 
 ## Partes de UX 
+
+### Página de inicio
+
+  * Primer menú en la parte de arriba.  
+
+  * Menú hacia el lado izquierdo.  
+
+  * Buscador en el centro.  
+
+  * Orden de las opciones del menú.  
+
+  * Configuración, Ayuda, Comentarios en la parte final del menú.
+
+  * En la esquina superior derecha botones de subir video, ajustes y accder a una cuenta.
+
+  * "Acceder" sea más resaltante.  
+
+  * En la parte central aparezcan mixes de videos y también reocomendaciones.  
+
+  * "Mixes de Youtube" y "Recomendados" se vean resaltantes y estén en ese orden. 
+
+  * Los mixes se basan en reproducciones anteriores del usuario.
+
+
+
+  ![UX-Youtube](assets/img/youtube-3.png)
+
+ ### Reproducción de video 
+
+ * 
+
+![UX-Youtube](assets/img/youtube-3.PNG)
