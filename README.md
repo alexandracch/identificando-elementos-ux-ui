@@ -9,7 +9,9 @@
 
    * Elegir una página web, en este caso Youtube, y explicar que partes conforman el UX y qué partes el UI.
 
-* Partes de UI
+## Partes de UI
+
+  ### Página de inicio
   
   * Color del background del body. 
 
@@ -21,9 +23,13 @@
 
   * "50+" y su ícono respectivo.  
 
+  * Los estilos de títulos y subtítulos.
+
+  * Estilos de la indicación de minutos.
+
   * El estilo de poner el nombre del video en negritas, color negro y mayor tamaño. 
 
-  *La información adicional de los videos en letras normales y de color gris. 
+  * La información adicional de los videos en letras normales y de color gris. 
 
   * Que la palabra "Acceder" se roja. 
 
@@ -40,4 +46,4 @@
   ![UI-Youtube](assets/img/youtube.PNG)
 
 
-* Partes de UX 
+## Partes de UX 
