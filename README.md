@@ -15,6 +15,16 @@
 
   * Color de los íconos. 
 
+  * Opacidad en los videos.
+
+  * Fuente de letra.
+
+  * "50+" y su ícono respectivo.  
+
+  * El estilo de poner el nombre del video en negritas, color negro y mayor tamaño.
+
+  *La información adicional de los videos en letras normales y de color gris.
+
   * Menu hamburguesa y contenido. 
 
   ![UI-Youtube](assets/img/youtube.PNG)
