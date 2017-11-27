@@ -21,11 +21,21 @@
 
   * "50+" y su ícono respectivo.  
 
-  * El estilo de poner el nombre del video en negritas, color negro y mayor tamaño.
+  * El estilo de poner el nombre del video en negritas, color negro y mayor tamaño. 
 
-  *La información adicional de los videos en letras normales y de color gris.
+  *La información adicional de los videos en letras normales y de color gris. 
 
-  * Menu hamburguesa y contenido. 
+  * Que la palabra "Acceder" se roja. 
+
+  * Menú hamburguesa y contenido. 
+
+  * Que la barra de búsqueda se vea sobria y tenga el ícono de la lupa. 
+
+  * Estilo de la línea separatoria. 
+
+  * Color del Background del menú hamburguesa. 
+
+  * Estilo de botón para el carrusel de videos. 
 
   ![UI-Youtube](assets/img/youtube.PNG)
 
