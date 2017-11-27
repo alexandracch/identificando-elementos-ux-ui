@@ -46,5 +46,50 @@
 
   ![UI-Youtube](assets/img/youtube.PNG)
 
+ ### Reproducción de video 
+
+ * Menú hamburguesa. 
+
+ * Que la barra de búsqueda se vea sobria y tenga el ícono de la lupa. 
+
+ * Estilo de la pantalla de reproducción (bordes negros). 
+
+ * Estilos de la ventana del momento de reproducción. 
+
+ * Botones de reproducción y minutos. 
+
+ * Botones de configuración, etc.
+
+ * Color rojo de la reproducción ya vista y gris de lo que ya ha cargado pero aún no hemos visto. 
+
+* Boton de "Suscribirse".
+
+* Forma redonda de la foto del canal. 
+
+* Nombre del canal en negritas y color negro. 
+
+* Datos de publicación en menor tamaño de letra y color gris.
+
+* Información el video en color negro. 
+
+* "Mostrar más" en negritas, mayúsculas y color gris. 
+
+* Estilos de reproducción automática. 
+
+* Estilos de los títulos de los videos. 
+
+* Estilos de la duración de videos.
+
+* "Acontinuación" en color negro y mayor tamaño de fuente. 
+
+* Estilos del Mix "50+". 
+
+* Estilo de la línea separatoria.
+
+* Botones en la parte superior derecha.
+
+* "Acceder" en color rojo, mayúsculas y negrita. 
+
+![UI-Youtube](assets/img/youtube-2.PNG)
 
 ## Partes de UX 
