@@ -134,6 +134,41 @@
 
  ### Reproducción de video 
 
- * 
+ * Ubicación de los elementos. 
 
-![UX-Youtube](assets/img/youtube-3.PNG)
+ * Tener el menú en opción despegable y no permanente. Nos podemos concentrar en visualizar el video.
+
+ * Señalar mi ubicación en el logo "Youtube PE". 
+
+ * Buscador en el centro de la parte superior.
+
+ * Tener opción de configurar la ventana donde se visualiza el video. Podemos poner del tamaño que queremos según lo que necesitemos.
+
+ * Ventana pequeña que señala que pasará en un minuto. Porque me ayuda a ver lo que necesito y no perder tiempo.
+
+ * Poder tener configruación. En ella hay opciones para poner subtítulos, calidad del video, etc.
+
+ * La 'i' en la esquina superior derecha del video, es una encuesta opcional. El usuario escoge si hacerla o no.
+
+ * Los comerciales solo duran 4 segundos. Es un poco molestoso, pero son solo 4 segundos, si fuesen 5 sería fatal.
+
+ * Los comerciales generan ingresos extras a los dueños de los canales en Youtube. Así los tienen contentos y siguen usando su red por eso los usuarios que nos limitamos a  ver contenido nos sentimos bien de tener qué ver.
+
+ * Poder detener el video, subir y bajar el volumen del audio y pasar a un siguiente video.  
+
+ * La publicidad "permanente" va a un lado y no incomoda.  
+
+ * "A continuación" me avisa que luego e inmediatamente se reproducirá un video relacionado a lo que estoy viendo en ese moemento. Si no, puedo dar click en cualquier otro video o buscar uno nuevo.  
+
+ * Me muestra denuevo un mix, armado en base a lo que estoy viendo o lo que ya he visto. 
+
+ * Nombre del video debajo de la ventana de reproducción.
+
+ * Poder dar like o dislike a un video. Poder compartirlo en redes sociales, añadirlo a una lista, etc.
+
+ * Visualizar el nombre del canal,  publicación, e información.  
+
+ * La opción de suscribirme a un canal. 
+
+
+![UX-Youtube](assets/img/youtube-4.PNG)
